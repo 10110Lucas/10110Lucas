@@ -1,11 +1,10 @@
 ## Sobre mim
 
-Desenvolvedor Full Stack com foco em Java e Angular, com experiência na construção e manutenção de sistemas SaaS, atuando com microsserviços, integrações e aplicações de alta disponibilidade.
+Desenvolvedor Full Stack com foco em Java e Angular, atuando no desenvolvimento de sistemas distribuídos e integrações, com ênfase em microsserviços e aplicações de alta disponibilidade.
 
 - 💼 Atualmente na Avanade
-- 🚀 Experiência com Java, Spring Boot, Angular, mensageria (Kafka e RabbitMQ), CI/CD e OpenShift
-- 🎓 Bacharel em Ciência da Computação na Universidade São Judas Tadeu (conclusão em 12/2020)
-- ☁️ AWS Certified Cloud Practitioner (03/2026)
+- ☁️ AWS Certified Cloud Practitioner (obtido em 03/2026)
+- 🎓 Bacharel em Ciência da Computação pela Universidade São Judas Tadeu (conclusão em 12/2020)
 
 ## 🛠️ Tecnologias
 
@@ -27,6 +26,7 @@ Desenvolvedor Full Stack com foco em Java e Angular, com experiência na constru
 - AWS
 - CI/CD
 - OpenShift
+
 
 ## 📫 Contato
 
