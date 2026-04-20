@@ -1,16 +1,36 @@
-## Hi there 👋
+## Olá, eu sou o Lucas 👋
 
-<!--
-**10110Lucas/10110Lucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Full Stack com foco em Java + Spring Boot e Angular.
+Experiência com microsserviços, integrações e sistemas de alta disponibilidade.
 
-Here are some ideas to get you started:
+- 💼 Atualmente atuando com desenvolvimento backend e frontend
+- 🚀 Experiência com Java, Spring Boot, Angular, Kafka e AWS
+- 🧩 Foco em arquitetura, performance e escalabilidade
+- 📚 Sempre evoluindo em boas práticas e sistemas distribuídos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+
+**Backend**
+- Java (8, 11, 17)
+- Spring Boot
+
+**Frontend**
+- Angular
+- React Native
+
+**Data Base**
+- Oracle
+- MongoDB
+- Redis
+
+**Outros**
+- Kafka / RabbitMQ
+- AWS Cloud
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/lucas-s-s
+- Email: lucas_900azul@hotmail.com
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=10110Lucas&show_icons=true&theme=dark)
